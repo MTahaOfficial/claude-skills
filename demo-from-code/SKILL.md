@@ -1,5 +1,5 @@
 ---
-name: demo-video
+name: demo-from-code
 description: Make a scripted product or investor demo video (about 60-90 s, 1080p) from real code, real API output and measured benchmarks, by rendering an HTML composition with Hyperframes.
 ---
 
